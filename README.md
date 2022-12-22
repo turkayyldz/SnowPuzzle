@@ -1,5 +1,4 @@
 # SnowPuzzle
-PROJECT SCRİPTS
 ![This is an image](https://user-images.githubusercontent.com/79602292/209208594-f1fd9d16-34c7-46cd-bf90-f1ed55dbe03f.png)
 ![This is an image](https://user-images.githubusercontent.com/79602292/209208606-cc0e49b3-4b1e-4aa9-9dd8-8954fa534875.png)
 ![This is an image](https://user-images.githubusercontent.com/79602292/209208426-3bb948ff-e0ba-47c6-b275-d5de6944bacd.png)
